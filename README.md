@@ -7,3 +7,4 @@
 | 주제 | 부제 | 깃허브 저장소 |
 |:---:|:---:|:---:|
 | 도메인(interface.or.kr) 등록하기.md | 도메인(interface.or.kr) 및 네임서버 등록 과정 | [바로가기](https://github.com/sejonginterface/Interface-Document/blob/master/%EB%8F%84%EB%A9%94%EC%9D%B8(interface.or.kr)%20%EB%93%B1%EB%A1%9D%ED%95%98%EA%B8%B0.md) |
+|추천 강의.md|여러가지 분야의 추천강의 정리|[바로가기](https://github.com/sejonginterface/Interface-Document/blob/master/%EC%B6%94%EC%B2%9C%20%EA%B0%95%EC%9D%98.md)|
